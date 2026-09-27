@@ -37,20 +37,6 @@ The challenge: the investor has **no information** about which company's stock w
 - Clean, professional, color-coded UI (themed cards, colored section headers, a color-coded recommendation banner, and a sortable, scrollable comparison grid).
 - Opens maximized; the comparison grid scrolls horizontally if a lower resolution can't show every column at once.
 
-## 🖥️ Screenshots
-
-> Add your own screenshots here after running the app. Suggested shots:
-> 1. **ROI Calculator** tab with a filled-in trade and its result breakdown.
-> 2. **Compare All Companies** tab with the ranked grid and recommendation banner.
-> 3. The **Help → About / Instructions** dialog.
-> 4. A validation error (e.g., an empty Buy Price field).
-
-```
-docs/screenshots/roi-calculator.png
-docs/screenshots/compare-companies.png
-docs/screenshots/about-dialog.png
-docs/screenshots/validation-error.png
-```
 
 ## 🛠️ Tech Stack
 
